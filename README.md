@@ -20,19 +20,23 @@ Uma cena do jogo onde uma bolinha cai em uma plataforma e colide com vários obj
 •Bola (Rigidbody Collider):
  A bola principal do jogo é afetada pela física do Unity, graças ao componente Rigidbody. Ela possui um Collider para detectar colisões com outros objetos no ambiente.
 
-[Imagem da bola]
+[Imagem da bola]![ball](https://github.com/julianadlisboa/Colisoes/assets/128002239/bb1e1b3c-504d-40b6-8db7-f9111b5a16dc)
+
 
 •Barreiras (Static Collider): 
 As barreiras no jogo são objetos estáticos e não se movem. Elas são criadas com Colliders para bloquear o caminho da bola impedindo ela de sair da cena.
 
-[Imagem das barreiras]
+[Imagem das barreiras]![barreiras](https://github.com/julianadlisboa/Colisoes/assets/128002239/db8946d7-e942-453a-9296-a3462b69b514)
+
 
 •Cubos Coloridos (Static Trigger Collider):
 Os cubos coloridos também são objetos estáticos, mas usam um Collider do tipo Trigger. Isso significa que quando a bola colide com eles, não impedem seu movimento, mas podem acionar eventos no jogo, como por exemplo rotacionar um pouco o objeto.
 
-[Imagem dos cubos coloridos/obstáculos]
+[Imagem dos cubos coloridos/obstáculos]![cuboscoloridos](https://github.com/julianadlisboa/Colisoes/assets/128002239/59e122e8-f5dd-4ca0-917d-09724bd7c0df)
+
 
 •Alvo (Kinematic Rigidbody Trigger Collider): 
-O alvo é o objetivo final do jogo. Ele pode ser criado com um Collider do tipo Kinematic Rigidbody para permitir colisões, ou um Kinematic Rigidbody Trigger Collider para acionar eventos quando a bola o atingir, como por exemplo acionar uma tela escrito "fim de jogo".
+O alvo é o objetivo final do jogo. Ele pode ser criado com um Collider do tipo Kinematic Rigidbody para permitir colisões, ou um Kinematic Rigidbody Trigger Collider para acionar eventos quando a bola o atingir.
 
-[Imagem do alvo]
+[Imagem do alvo]![alvo](https://github.com/julianadlisboa/Colisoes/assets/128002239/d7e340b2-c9fb-4acf-b302-2f6e48690b33)
+
