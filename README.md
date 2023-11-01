@@ -12,7 +12,8 @@ link: https://drive.google.com/file/d/1v5CIhMQCMLzw7xeeaPhZzgMFnT1AGww4/view?usp
 
 Uma cena do jogo onde uma bolinha cai em uma plataforma e colide com vários objetos em seu caminho antes de acertar um alvo.
 
-[Imagem do jogo]
+[Imagem do jogo]![jogo](https://github.com/julianadlisboa/Colisoes/assets/128002239/fbaba5d6-686a-46d9-b6b8-2d944690d125)
+
 
 <H2> colisores utilizados nos game-objects </H2>
 
