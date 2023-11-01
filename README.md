@@ -40,3 +40,6 @@ O alvo é o objetivo final do jogo. Ele pode ser criado com um Collider do tipo 
 
 [Imagem do alvo]![alvo](https://github.com/julianadlisboa/Colisoes/assets/128002239/d7e340b2-c9fb-4acf-b302-2f6e48690b33)
 
+[video]
+https://drive.google.com/file/d/14s7ONoLErLV2PWZfvItT0jpe02mLpXo-/view?usp=sharing
+
